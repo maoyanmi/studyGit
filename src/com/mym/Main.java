@@ -12,5 +12,6 @@ public class Main {
         * 因为代码拉取下拉后存放的地方是本地代码库，并不是本地磁盘
         * */
         System.out.println("我是程序员A");
+        System.out.println("A修改");
     }
 }
