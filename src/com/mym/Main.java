@@ -7,5 +7,6 @@ public class Main {
         System.out.println("努力努力！！");
         System.out.println("进步进步！！");
         System.out.println("修改了一个文件");
+        System.out.println("我是程序员A");
     }
 }
