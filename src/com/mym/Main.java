@@ -8,5 +8,7 @@ public class Main {
         System.out.println("进步进步！！");
         System.out.println("修改了一个文件");
         System.out.println("我是程序员B");
+        System.out.println("我是程序员A");
+        System.out.println("我是程序员B");
     }
 }
